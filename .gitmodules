@@ -1,0 +1,3 @@
+[submodule "nix-volatility-unstable"]
+	path = nix-volatility-unstable
+	url = git@github.com:lightdiscord/nix-volatility-unstable.git
